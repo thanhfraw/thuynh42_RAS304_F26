@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome fam to Thanh Huynh RAS 304's website
 tags:
 - tag1
 - tag2
